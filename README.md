@@ -5,11 +5,15 @@ Easily create a new Chai Builder app with NextJS. This starter includes everythi
 
 ---
 
-#### Deploy to hosting provider
+#### Step 1: Get FREE API keys 
+Get your keys from [here](https://apps.chaibuilder.com)
+
+> NOTE: The above backend service is optional. You can use your own backend. We will soon open source our backend service.
+
+
+#### Step 2: Deploy to hosting provider
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fchaibuilder%2Fchaibuilder-nextjs&env=CHAIBUILDER_APP_KEY,CHAIBUILDER_AUTH_SECRET&envDescription=API%20keys%20to%20use%20ChaiBuilder%20backend%20services&envLink=https%3A%2F%2Fchaibuilder.com%2Fdocs%2Fapi-keys)
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chaibuilder/chaibuilder-nextjs)
-
-Get your API keys from [here](https://apps.chaibuilder.com)
 
 -----
 
