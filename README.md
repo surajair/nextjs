@@ -1,4 +1,4 @@
-## Chai Builder + NextJS Starter
+## Chai Builder + NextJS Starte
 
 ### Getting Started
 Easily create a new Chai Builder app with NextJS. This starter includes everything you need to get started with Chai Builder and NextJS.
